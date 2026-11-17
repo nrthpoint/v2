@@ -1,0 +1,512 @@
+{
+  "source": "https://www.nrthpoint.com",
+  "capturedAt": "2026-11-17T21:03:45.904Z",
+  "sitemap": [
+    "/",
+    "/work",
+    "/work/project-catalyst",
+    "/work/daniel-ricciardo",
+    "/work/betterleap",
+    "/work/eversys",
+    "/work/palatine-homes",
+    "/work/burbeck",
+    "/work/waitrose",
+    "/work/uk-home-office",
+    "/work/sky",
+    "/work/tiney",
+    "/work/the-grid",
+    "/work/shell-remote-sense"
+  ],
+  "pages": [
+    {
+      "path": "/",
+      "url": "https://www.nrthpoint.com/",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/index.html",
+      "content": "content/home.md",
+      "images": 7,
+      "imagesIncludingMobileVariants": 11,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/index.png",
+          "height": 2817,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/index.png",
+          "height": 4170,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work",
+      "url": "https://www.nrthpoint.com/work",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work.html",
+      "content": "content/work.md",
+      "images": 12,
+      "imagesIncludingMobileVariants": 12,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work.png",
+          "height": 3247,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work.png",
+          "height": 6135,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/project-catalyst",
+      "url": "https://www.nrthpoint.com/work/project-catalyst",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/project-catalyst.html",
+      "content": "content/work/project-catalyst.md",
+      "images": 9,
+      "imagesIncludingMobileVariants": 9,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/project-catalyst.png",
+          "height": 11186,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/project-catalyst.png",
+          "height": 4473,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/daniel-ricciardo",
+      "url": "https://www.nrthpoint.com/work/daniel-ricciardo",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/daniel-ricciardo.html",
+      "content": "content/work/daniel-ricciardo.md",
+      "images": 8,
+      "imagesIncludingMobileVariants": 8,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/daniel-ricciardo.png",
+          "height": 6971,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/daniel-ricciardo.png",
+          "height": 3652,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/betterleap",
+      "url": "https://www.nrthpoint.com/work/betterleap",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/betterleap.html",
+      "content": "content/work/betterleap.md",
+      "images": 9,
+      "imagesIncludingMobileVariants": 9,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/betterleap.png",
+          "height": 6351,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/betterleap.png",
+          "height": 3246,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/eversys",
+      "url": "https://www.nrthpoint.com/work/eversys",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/eversys.html",
+      "content": "content/work/eversys.md",
+      "images": 11,
+      "imagesIncludingMobileVariants": 11,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/eversys.png",
+          "height": 14359,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/eversys.png",
+          "height": 5234,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/palatine-homes",
+      "url": "https://www.nrthpoint.com/work/palatine-homes",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/palatine-homes.html",
+      "content": "content/work/palatine-homes.md",
+      "images": 7,
+      "imagesIncludingMobileVariants": 7,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/palatine-homes.png",
+          "height": 5151,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/palatine-homes.png",
+          "height": 2541,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/burbeck",
+      "url": "https://www.nrthpoint.com/work/burbeck",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/burbeck.html",
+      "content": "content/work/burbeck.md",
+      "images": 8,
+      "imagesIncludingMobileVariants": 8,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/burbeck.png",
+          "height": 8128,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/burbeck.png",
+          "height": 3775,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/waitrose",
+      "url": "https://www.nrthpoint.com/work/waitrose",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/waitrose.html",
+      "content": "content/work/waitrose.md",
+      "images": 1,
+      "imagesIncludingMobileVariants": 1,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/waitrose.png",
+          "height": 1293,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/waitrose.png",
+          "height": 863,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/uk-home-office",
+      "url": "https://www.nrthpoint.com/work/uk-home-office",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/uk-home-office.html",
+      "content": "content/work/uk-home-office.md",
+      "images": 2,
+      "imagesIncludingMobileVariants": 2,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/uk-home-office.png",
+          "height": 1468,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/uk-home-office.png",
+          "height": 958,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/sky",
+      "url": "https://www.nrthpoint.com/work/sky",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/sky.html",
+      "content": "content/work/sky.md",
+      "images": 2,
+      "imagesIncludingMobileVariants": 2,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/sky.png",
+          "height": 1329,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/sky.png",
+          "height": 914,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/tiney",
+      "url": "https://www.nrthpoint.com/work/tiney",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/tiney.html",
+      "content": "content/work/tiney.md",
+      "images": 2,
+      "imagesIncludingMobileVariants": 2,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/tiney.png",
+          "height": 1241,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/tiney.png",
+          "height": 847,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/the-grid",
+      "url": "https://www.nrthpoint.com/work/the-grid",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/the-grid.html",
+      "content": "content/work/the-grid.md",
+      "images": 2,
+      "imagesIncludingMobileVariants": 2,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/the-grid.png",
+          "height": 1369,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/the-grid.png",
+          "height": 885,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    },
+    {
+      "path": "/work/shell-remote-sense",
+      "url": "https://www.nrthpoint.com/work/shell-remote-sense",
+      "title": "North Point | Web Consultancy",
+      "inSitemap": true,
+      "discoveredFrom": "sitemap",
+      "status": 200,
+      "error": null,
+      "html": "archive/html/work/shell-remote-sense.html",
+      "content": "content/work/shell-remote-sense.md",
+      "images": 2,
+      "imagesIncludingMobileVariants": 2,
+      "screenshots": {
+        "desktop": {
+          "file": "screenshots/desktop/work/shell-remote-sense.png",
+          "height": 1248,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        },
+        "mobile": {
+          "file": "screenshots/mobile/work/shell-remote-sense.png",
+          "height": 849,
+          "brokenImages": [],
+          "fontsLoaded": [
+            "Lato 300",
+            "Lato 700",
+            "Libre Baskerville 400"
+          ]
+        }
+      }
+    }
+  ]
+}
