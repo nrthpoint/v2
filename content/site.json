@@ -1,0 +1,247 @@
+{
+  "title": "North Point | Web Consultancy",
+  "description": "We are digital technology specialists. We are also perfectionists.",
+  "lang": "en",
+  "url": "https://www.nrthpoint.com",
+  "favicon": "/archive/assets/favicon.ico",
+  "logo": "/archive/assets/images/logo.png",
+  "contact_email": "hello@nrthpoint.com",
+  "nav": {
+    "note": "There is no navigation menu. The logo is the only persistent link: it is static on /, links to / on /work, and links back to /work on project pages. Projects are reached from the home slideshow and Featured cards, and from /work.",
+    "items": [
+      {
+        "label": "North Point (logo)",
+        "href": "/",
+        "on": "/work"
+      },
+      {
+        "label": "North Point (logo)",
+        "href": "/work",
+        "on": "/work/*"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 North Point Technology. All rights reserved.",
+    "call_to_action": [
+      "Want to know more? Get in touch with us at [hello@nrthpoint.com](mailto:hello@nrthpoint.com), or have a read of our founder, Harry Northover's [personal blog](https://northover.co)."
+    ]
+  },
+  "social": [
+    {
+      "label": "personal blog",
+      "href": "https://northover.co"
+    }
+  ],
+  "external_links": [
+    {
+      "label": "personal blog",
+      "href": "https://northover.co",
+      "pages": [
+        "/"
+      ]
+    },
+    {
+      "label": "Waitrose",
+      "href": "https://www.waitrose.com",
+      "pages": [
+        "/work",
+        "/work/waitrose"
+      ]
+    },
+    {
+      "label": "UK Home Office",
+      "href": "https://www.gov.uk",
+      "pages": [
+        "/work",
+        "/work/uk-home-office"
+      ]
+    },
+    {
+      "label": "Sky",
+      "href": "https://www.peacocktv.com",
+      "pages": [
+        "/work",
+        "/work/sky"
+      ]
+    },
+    {
+      "label": "Tiney",
+      "href": "https://www.tiney.co",
+      "pages": [
+        "/work",
+        "/work/tiney"
+      ]
+    },
+    {
+      "label": "The Grid",
+      "href": "https://www.tripadvisor.co.uk/Attraction_Review-g186338-d15550500-Reviews-The_Grid-London_England.html",
+      "pages": [
+        "/work",
+        "/work/the-grid"
+      ]
+    },
+    {
+      "label": "Shell Remote Sense",
+      "href": "https://www.shell.com/business-customers/lubricants-for-business/shell-expertise/lubrication-services-for-your-industry/shell-remotesense.html",
+      "pages": [
+        "/work",
+        "/work/shell-remote-sense"
+      ]
+    },
+    {
+      "label": "visit →",
+      "href": "https://projectcatalyst.io",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    {
+      "label": "BSTN LDN",
+      "href": "https://www.bastianldn.com",
+      "pages": [
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/palatine-homes"
+      ]
+    },
+    {
+      "label": "visit →",
+      "href": "https://www.danielricciardo.com",
+      "pages": [
+        "/work/daniel-ricciardo"
+      ]
+    },
+    {
+      "label": "visit →",
+      "href": "https://betterleap.com",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    {
+      "label": "Prismic",
+      "href": "https://prismic.io",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    {
+      "label": "Gatsby",
+      "href": "https://www.gatsbyjs.com",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    {
+      "label": "Styled Components",
+      "href": "https://styled-components.com",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    {
+      "label": "visit →",
+      "href": "https://www.eversys.com/en/",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    {
+      "label": "Squarespace",
+      "href": "https://squarespace.com",
+      "pages": [
+        "/work/burbeck",
+        "/work/palatine-homes"
+      ]
+    },
+    {
+      "label": "Squarespace Toolbelt",
+      "href": "https://github.com/Squarespace/squarespace-toolbelt",
+      "pages": [
+        "/work/burbeck",
+        "/work/palatine-homes"
+      ]
+    },
+    {
+      "label": "visit →",
+      "href": "https://www.palatinehomes.co.uk",
+      "pages": [
+        "/work/palatine-homes"
+      ]
+    }
+  ],
+  "analytics": "Google Analytics (gtag) was loaded on every page; intentionally not carried over.",
+  "pages": [
+    {
+      "path": "/",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/project-catalyst",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/daniel-ricciardo",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/betterleap",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/eversys",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/palatine-homes",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/burbeck",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/waitrose",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/uk-home-office",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/sky",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/tiney",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/the-grid",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    },
+    {
+      "path": "/work/shell-remote-sense",
+      "title": "North Point | Web Consultancy",
+      "in_sitemap": true
+    }
+  ]
+}

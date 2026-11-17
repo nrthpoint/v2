@@ -1,0 +1,1177 @@
+{
+  "source": "https://www.nrthpoint.com",
+  "capturedAt": "2026-11-17T21:03:45.904Z",
+  "note": "Keys are the original URLs (Contentful originals, never /_next/image variants). URLs with identical bytes share one local file (see duplicateOf).",
+  "assets": {
+    "https://images.ctfassets.net/cssyktxw8bf5/1EXSex4x2BbzixNIwPYJjY/1c63a932c590ef34f79ca829555cd5ec/Home_Product_Narrow.jpg": {
+      "path": "archive/assets/images/Home_Product_Narrow.jpg",
+      "bytes": 395279,
+      "contentType": "image/jpeg",
+      "sha256": "e5dce13da54b03420c1648e84f5fb23dd74905ca883e49357526af8b3e01624d",
+      "kind": "image",
+      "contentfulAssetId": "1EXSex4x2BbzixNIwPYJjY",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1IUYvhuQGYVInCB13GLULn/05c8726f98417626b040192b0f9eee68/1599011198646.jpeg": {
+      "path": "archive/assets/images/1599011198646.jpeg",
+      "bytes": 18756,
+      "contentType": "image/jpeg",
+      "sha256": "8b315a1de14e6d3d6a78d98908942427e12ed1787155a119171fb0893a2c34c5",
+      "kind": "image",
+      "contentfulAssetId": "1IUYvhuQGYVInCB13GLULn",
+      "pages": [
+        "/",
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1KvyQXlxqJa31QQQklHbsC/fc11882ecaa1ae70522966044faa4996/Candidate_-_Profile.jpg": {
+      "path": "archive/assets/images/Candidate_-_Profile.jpg",
+      "bytes": 419125,
+      "contentType": "image/jpeg",
+      "sha256": "ccc28dc7d100a5fd4d914eeb154328bd5f432d1c19d2687b6ea11c020b9a8f33",
+      "kind": "image",
+      "contentfulAssetId": "1KvyQXlxqJa31QQQklHbsC",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1SiZ550zyMltfIc5g3WvqD/3a1df64b1d68174698ac60df3f6a1034/Home_Contact_Narrow.jpg": {
+      "path": "archive/assets/images/Home_Contact_Narrow.jpg",
+      "bytes": 291672,
+      "contentType": "image/jpeg",
+      "sha256": "49b28503d385e4abc08781f667276ba5e94c20ba8c8fd69bc564763fd5db13d5",
+      "kind": "image",
+      "contentfulAssetId": "1SiZ550zyMltfIc5g3WvqD",
+      "pages": [
+        "/work/palatine-homes"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1eI6Taz4U35JOj3KD3O81Z/024215434d47df1141c833dca9cf1967/Burbeck_12.jpg": {
+      "path": "archive/assets/images/Burbeck_12.jpg",
+      "bytes": 362196,
+      "contentType": "image/jpeg",
+      "sha256": "9f3d8aec48459bbbec716eed0fc155aa210712ec6efb49fd9d7ef4acd22a49eb",
+      "kind": "image",
+      "contentfulAssetId": "1eI6Taz4U35JOj3KD3O81Z",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1msvo14Wste3ZsZONClJA2/f0d23626e218ad68a86eca08d45a0e87/Homes_Wide.jpg": {
+      "path": "archive/assets/images/Homes_Wide.jpg",
+      "bytes": 589124,
+      "contentType": "image/jpeg",
+      "sha256": "17b1844a1a197938dff5931785476e667404480c4e0d2e0f1c34ec185bfe6fba",
+      "kind": "image",
+      "contentfulAssetId": "1msvo14Wste3ZsZONClJA2",
+      "pages": [
+        "/work/palatine-homes"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1oqEvAyFHLlfqqLAoCXOq8/a7320a99d52120a2a6d97b08702739e7/Burbeck_16.jpg": {
+      "path": "archive/assets/images/Burbeck_16.jpg",
+      "bytes": 568634,
+      "contentType": "image/jpeg",
+      "sha256": "8a3235979a1e1027d04458fab344d687fcfee4ba032ff541d02baf76c18ef1f2",
+      "kind": "image",
+      "contentfulAssetId": "1oqEvAyFHLlfqqLAoCXOq8",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1pMDliAkIshI6Qh0yjHnUv/45a8432efec3d342eca1b3f7263abe4a/Home.jpg": {
+      "path": "archive/assets/images/Home.jpg",
+      "bytes": 693448,
+      "contentType": "image/jpeg",
+      "sha256": "dab48903a1b8b54c61b3483dbbf45cea79c9fa541e6b122baf1e2ba0830c57a5",
+      "kind": "image",
+      "contentfulAssetId": "1pMDliAkIshI6Qh0yjHnUv",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1t7qWxgPi5GnNLLoFXLK9T/ed1ec335f3b80ba24b11e204d5fa0647/Home_Wide.jpg": {
+      "path": "archive/assets/images/1t7qWxgPi5GnNLLoFXLK9T-Home_Wide.jpg",
+      "bytes": 590462,
+      "contentType": "image/jpeg",
+      "sha256": "27f2d0415022e6f18c273c279c3df19f72f2184393e655130f7b0b94735f9ddf",
+      "kind": "image",
+      "contentfulAssetId": "1t7qWxgPi5GnNLLoFXLK9T",
+      "pages": [
+        "/work/palatine-homes"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/1zThpqvqBE6l6E9ysHv1Rj/28fcac45108f911867ed21d497df51c9/frame_0000.jpeg": {
+      "path": "archive/assets/images/1zThpqvqBE6l6E9ysHv1Rj-frame_0000.jpeg",
+      "bytes": 105519,
+      "contentType": "image/jpeg",
+      "sha256": "401009de803b62951a8e830af12daa6b5aa45c585c8f373578b37da3e2baefc5",
+      "kind": "image",
+      "contentfulAssetId": "1zThpqvqBE6l6E9ysHv1Rj",
+      "pages": [
+        "/work",
+        "/work/sky"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/27je3NYLVbbBGLjOpUPSXR/55afc24f14d6d2882f270952a2e01593/Recruiter_-_Job_Listing.jpg": {
+      "path": "archive/assets/images/Recruiter_-_Job_Listing.jpg",
+      "bytes": 789970,
+      "contentType": "image/jpeg",
+      "sha256": "96c327a2eb47d235d2050139f963b17cf40355f1fd6047f741d5c7563499cb3f",
+      "kind": "image",
+      "contentfulAssetId": "27je3NYLVbbBGLjOpUPSXR",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/28FrRwKbFEA9gmrFH19jhJ/88ab9a4ab349cb5b25548e01945bbc7b/Fund_10_-_Voting_Results_-_Mobile.jpg": {
+      "path": "archive/assets/images/Fund_10_-_Voting_Results_-_Mobile.jpg",
+      "bytes": 561836,
+      "contentType": "image/jpeg",
+      "sha256": "7aee31d16e50aea42f4dd80db133a49517ac70f03a4d096cac8d5985dc3f1c73",
+      "kind": "image",
+      "contentfulAssetId": "28FrRwKbFEA9gmrFH19jhJ",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/2O1M1sxKgZ14txhd33ShRD/61baf9b6aa1af9bdc7f8f4358dcbad67/tiney-369897874.jpg": {
+      "path": "archive/assets/images/tiney-369897874.jpg",
+      "bytes": 51247,
+      "contentType": "image/jpeg",
+      "sha256": "862113f84e8b034ae82f231d01744e7a0959e10d87644e2356edbf0b5ea9fc3d",
+      "kind": "image",
+      "contentfulAssetId": "2O1M1sxKgZ14txhd33ShRD",
+      "pages": [
+        "/work",
+        "/work/tiney"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/2fEV44nitSQ4CJ6t8VbpwG/971ade0fdcceeff80e6c973bf3de3fcd/Recruiter_-_Post_Job.jpg": {
+      "path": "archive/assets/images/Recruiter_-_Post_Job.jpg",
+      "bytes": 380566,
+      "contentType": "image/jpeg",
+      "sha256": "7cf0e847fdab8736cf3ad0d729c58b249efffdad8358a5882b30877530582aab",
+      "kind": "image",
+      "contentfulAssetId": "2fEV44nitSQ4CJ6t8VbpwG",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/2gC2y3GQavFXcR5X6UdeKE/642f02100dd675f4308a069d8823cfd2/hero.jpg": {
+      "path": "archive/assets/images/hero.jpg",
+      "bytes": 175377,
+      "contentType": "image/jpeg",
+      "sha256": "a5455d69d8dfd2ca48befe64002794cf16daf2991d6bf815e1f2448110d506dc",
+      "kind": "image",
+      "contentfulAssetId": "2gC2y3GQavFXcR5X6UdeKE",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/2tzTqXXPDYjNuWUPHeBuN4/6ee4e3cd51cbde0437583cd62f2fc276/News.jpg": {
+      "path": "archive/assets/images/News.jpg",
+      "bytes": 1569661,
+      "contentType": "image/jpeg",
+      "sha256": "c502100e62e5ab8fe41357ad653c53e977157f251ad500fd075f4f7a9da2efef",
+      "kind": "image",
+      "contentfulAssetId": "2tzTqXXPDYjNuWUPHeBuN4",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3CErSAjpkMS5xu9pQQpl32/c6b250c6dfd9b87cd461deaba1953a16/detailsbil_02.jpg": {
+      "path": "archive/assets/images/detailsbil_02.jpg",
+      "bytes": 156751,
+      "contentType": "image/jpeg",
+      "sha256": "bc44ac7b522ac60fccdceb18eb91e4c8714a96e2a43f42547456b7d74953f2b2",
+      "kind": "image",
+      "contentfulAssetId": "3CErSAjpkMS5xu9pQQpl32",
+      "pages": [
+        "/",
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3KcuZoEdf8pEKPkQa4Udt9/b3a4b36811786521de0f12c72b3cf94f/Home_Wide.jpg": {
+      "path": "archive/assets/images/3KcuZoEdf8pEKPkQa4Udt9-Home_Wide.jpg",
+      "bytes": 266506,
+      "contentType": "image/jpeg",
+      "sha256": "4ee26c22c8cf5d0336954e367a0a0ed229c387316f8d402859f34bba9f9c07b6",
+      "kind": "image",
+      "contentfulAssetId": "3KcuZoEdf8pEKPkQa4Udt9",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3SSoVI8dESVNvxKbrmhu9l/30bb7866bbdcd973b4a4e6c2969ecd50/News_Wide.jpg": {
+      "path": "archive/assets/images/News_Wide.jpg",
+      "bytes": 349916,
+      "contentType": "image/jpeg",
+      "sha256": "c2d8c0d60e176feaac7168c16caf5f18d2187a273eb11d575edc6bc0c15dfd6e",
+      "kind": "image",
+      "contentfulAssetId": "3SSoVI8dESVNvxKbrmhu9l",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3TfjAyRxSQJpDO2JETcgA9/5732fb316a40f25c5203e7ba1476b6e9/Burbeck_11.jpg": {
+      "path": "archive/assets/images/Burbeck_11.jpg",
+      "bytes": 58670,
+      "contentType": "image/jpeg",
+      "sha256": "79f46ef8ee707c3bca4a1be923237e425e0c04a9d59027e1c90ab5d282dd8c59",
+      "kind": "image",
+      "contentfulAssetId": "3TfjAyRxSQJpDO2JETcgA9",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3XaYnZxYjETfLmpBFIOWGs/3a5a28bc4dabb2a86d966efbe2f9f323/dr_mobile.png": {
+      "path": "archive/assets/images/dr_mobile.png",
+      "bytes": 421506,
+      "contentType": "image/png",
+      "sha256": "41ab6878c18c72c625a8ba9267c61bf5545a016279765c31a7380caa899d8dce",
+      "kind": "image",
+      "contentfulAssetId": "3XaYnZxYjETfLmpBFIOWGs",
+      "pages": [
+        "/",
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3Xbf2tBOs6Ei22tjzv6fyF/fd81e7ab2a490e6e12e5f73154c7a37f/HomeProject2.jpg": {
+      "path": "archive/assets/images/HomeProject2.jpg",
+      "bytes": 792867,
+      "contentType": "image/jpeg",
+      "sha256": "805936259f82e76950b1545ebc17078ad1a02838ca7da0ed47343452d2a43726",
+      "kind": "image",
+      "contentfulAssetId": "3Xbf2tBOs6Ei22tjzv6fyF",
+      "pages": [
+        "/",
+        "/work",
+        "/work/palatine-homes"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3blpCY3AIZ6sVKL9BoQckj/d497c346ae7583c88f05fe579c192e53/Streetscape_E_copy.jpg": {
+      "path": "archive/assets/images/Streetscape_E_copy.jpg",
+      "bytes": 2105204,
+      "contentType": "image/jpeg",
+      "sha256": "d8a9650544912b0f6f9ca313d5fd7130f23d621d251388670e53c0b81ba7a3ab",
+      "kind": "image",
+      "contentfulAssetId": "3blpCY3AIZ6sVKL9BoQckj",
+      "pages": [
+        "/",
+        "/work/palatine-homes"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3eKakMXmOIJsR8beVyY9XY/6e1ec72de0d499bb22f03fb123a7c492/Profile_Wide.jpg": {
+      "path": "archive/assets/images/Profile_Wide.jpg",
+      "bytes": 324459,
+      "contentType": "image/jpeg",
+      "sha256": "daf0124ad78bb2dba3818d9b1e60b7bbeabb65707f890bc976550ab95870dad6",
+      "kind": "image",
+      "contentfulAssetId": "3eKakMXmOIJsR8beVyY9XY",
+      "pages": [
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3iT6Affru7gUynDcOT64Qt/ee7673566a8460ca81ce96b09e66ce0b/Fund_13.jpg": {
+      "path": "archive/assets/images/Fund_13.jpg",
+      "bytes": 617871,
+      "contentType": "image/jpeg",
+      "sha256": "9609ace7e150052ddc0a05ad87791e5bb116d5e091608992811263db71df4d9e",
+      "kind": "image",
+      "contentfulAssetId": "3iT6Affru7gUynDcOT64Qt",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3rwqtETps9y87C67tsAKap/c9f26768f9e71d5610ada176024d60b7/Fund_10_-_Voting_Results.jpg": {
+      "path": "archive/assets/images/Fund_10_-_Voting_Results.jpg",
+      "bytes": 1006384,
+      "contentType": "image/jpeg",
+      "sha256": "fac06b574e7a360d20a595295302dfb9a234c2eeb66a2c9d4e8e72d49e0c89dd",
+      "kind": "image",
+      "contentfulAssetId": "3rwqtETps9y87C67tsAKap",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3sBmKZZLXjMJuKgOU2m9Hg/f86a4b8cf47556855adbe53716a5da9f/Funds_Overview.jpg": {
+      "path": "archive/assets/images/Funds_Overview.jpg",
+      "bytes": 710836,
+      "contentType": "image/jpeg",
+      "sha256": "ae1300ebe0fa4f5a226689344b9b4ca8ced8ea2bfe3bd99a2eeca6f0b1d8c533",
+      "kind": "image",
+      "contentfulAssetId": "3sBmKZZLXjMJuKgOU2m9Hg",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/3xIt08NW3hPn4EWTmdQiYi/913ed731de948eae5227ac554f584396/Menu_Narrow.jpg": {
+      "path": "archive/assets/images/Menu_Narrow.jpg",
+      "bytes": 250905,
+      "contentType": "image/jpeg",
+      "sha256": "96d8ee7012dc24e82fb305b52478a8acac1a3b789c73c3afed12a69e29efedc8",
+      "kind": "image",
+      "contentfulAssetId": "3xIt08NW3hPn4EWTmdQiYi",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/47T0bXBaQvWfo6nKTo3ewd/a1c7364c7b3d6f75f3fddc8d4fa80058/Home_Wide_Branded.jpg": {
+      "path": "archive/assets/images/Home_Wide_Branded.jpg",
+      "bytes": 330602,
+      "contentType": "image/jpeg",
+      "sha256": "a1b3cafea25f561a41cbfab0ad14af50941e9f7188b2041598db0884b5c42a19",
+      "kind": "image",
+      "contentfulAssetId": "47T0bXBaQvWfo6nKTo3ewd",
+      "pages": [
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/4JHmu4xYNbfw645KE59CBw/942ad796165c2bc27b4d8ef20ad2f166/1598291191070.jpeg": {
+      "path": "archive/assets/images/1598291191070.jpeg",
+      "bytes": 66749,
+      "contentType": "image/jpeg",
+      "sha256": "01a40b0b85cdf5092c2785df16fd578b152e7c9135dceb5010c78b70db26fe60",
+      "kind": "image",
+      "contentfulAssetId": "4JHmu4xYNbfw645KE59CBw",
+      "pages": [
+        "/work",
+        "/work/the-grid"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/4TM49XulbQNqvAGO11NKDp/3087c2c60a7fbb50ff944ccf487def40/maxresdefault.jpg": {
+      "path": "archive/assets/images/maxresdefault.jpg",
+      "bytes": 70961,
+      "contentType": "image/jpeg",
+      "sha256": "cb65d5afd07ff56f2d9b68a167b6aad49b74704b5f38fc85d05eb06497b9b3cb",
+      "kind": "image",
+      "contentfulAssetId": "4TM49XulbQNqvAGO11NKDp",
+      "pages": [
+        "/",
+        "/work",
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/4U9dgfEiAxqpBUPVlR9B0g/8a00ba6e76fb2cb7261314cea0fd2248/Burbeck_16.jpg": {
+      "path": "archive/assets/images/Burbeck_16.jpg",
+      "bytes": 568634,
+      "contentType": "image/jpeg",
+      "sha256": "8a3235979a1e1027d04458fab344d687fcfee4ba032ff541d02baf76c18ef1f2",
+      "kind": "image",
+      "contentfulAssetId": "4U9dgfEiAxqpBUPVlR9B0g",
+      "duplicateOf": "https://images.ctfassets.net/cssyktxw8bf5/1oqEvAyFHLlfqqLAoCXOq8/a7320a99d52120a2a6d97b08702739e7/Burbeck_16.jpg",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/4ZC0B3XpYVRAe4eGe6fOoA/2d9b043d933d784172ed1e97968da88f/App_-_Chat.jpg": {
+      "path": "archive/assets/images/App_-_Chat.jpg",
+      "bytes": 852117,
+      "contentType": "image/jpeg",
+      "sha256": "814fdcab6b2d5f5fc5f65db97d8cf68c73f56810e6e0ec26b0ec1284db35af10",
+      "kind": "image",
+      "contentfulAssetId": "4ZC0B3XpYVRAe4eGe6fOoA",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/4iXdp3oZiLafuca7OcOPS6/424c98077c85bd21dddd4cce55f41374/Home_Translated_Wide.jpg": {
+      "path": "archive/assets/images/Home_Translated_Wide.jpg",
+      "bytes": 262549,
+      "contentType": "image/jpeg",
+      "sha256": "c1ced672298fa59cd128c5f83771a68ea972f2fffee28eb1ca0f44652881f6a2",
+      "kind": "image",
+      "contentfulAssetId": "4iXdp3oZiLafuca7OcOPS6",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/54VHfNcBNgivjz13HoEHeI/64a8e1d5439c9e9b0864fa81d45c855f/Narrow.jpg": {
+      "path": "archive/assets/images/54VHfNcBNgivjz13HoEHeI-Narrow.jpg",
+      "bytes": 242422,
+      "contentType": "image/jpeg",
+      "sha256": "f94a005def75a331b8ae36a3bc1e2a1370b20e5304758ed15443502f0a0d9ad6",
+      "kind": "image",
+      "contentfulAssetId": "54VHfNcBNgivjz13HoEHeI",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/54j0JBOXhstFXgrMlC2sRg/227d5b13a16f766f07aec525c846470f/frame_0000.jpeg": {
+      "path": "archive/assets/images/54j0JBOXhstFXgrMlC2sRg-frame_0000.jpeg",
+      "bytes": 238593,
+      "contentType": "image/jpeg",
+      "sha256": "38efb3fd72bf1f6a8f3a8f3e1e0032dfb64460d31fcedd3ae24e42f5095999e4",
+      "kind": "image",
+      "contentfulAssetId": "54j0JBOXhstFXgrMlC2sRg",
+      "pages": [
+        "/work/sky"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/5E4ADv8L5PdjRP64O8rZZD/df3d45ff88f33faa10c865de8a1f7e84/tiney-369897874.jpg": {
+      "path": "archive/assets/images/tiney-369897874.jpg",
+      "bytes": 51247,
+      "contentType": "image/jpeg",
+      "sha256": "862113f84e8b034ae82f231d01744e7a0959e10d87644e2356edbf0b5ea9fc3d",
+      "kind": "image",
+      "contentfulAssetId": "5E4ADv8L5PdjRP64O8rZZD",
+      "duplicateOf": "https://images.ctfassets.net/cssyktxw8bf5/2O1M1sxKgZ14txhd33ShRD/61baf9b6aa1af9bdc7f8f4358dcbad67/tiney-369897874.jpg",
+      "pages": [
+        "/work/tiney"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/5GrrDynCehxzR77hTga9pl/7a273e6829e3557a4759ffc10a619afa/Search.jpg": {
+      "path": "archive/assets/images/Search.jpg",
+      "bytes": 522718,
+      "contentType": "image/jpeg",
+      "sha256": "a8d3683e9757b4b947ea95699e95392de767fe98d5e1005c2670af808983f1cd",
+      "kind": "image",
+      "contentfulAssetId": "5GrrDynCehxzR77hTga9pl",
+      "pages": [
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/5HQucRiAqxKI3jdHs9sNla/02731bec5d008781653438b3851b5b2a/637b68eb4a80dd8799f6801a_Eversys_min.jpg": {
+      "path": "archive/assets/images/637b68eb4a80dd8799f6801a_Eversys_min.jpg",
+      "bytes": 309272,
+      "contentType": "image/jpeg",
+      "sha256": "0eff15346b02ef1bd6ce9c2aa14a8a3c6845b0b54a21d5d74430d3717ea8baba",
+      "kind": "image",
+      "contentfulAssetId": "5HQucRiAqxKI3jdHs9sNla",
+      "pages": [
+        "/",
+        "/work"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/5jBS66ppfc93kGKeax0St3/6b9ca5ad81f821119015e3b5d32a4e31/Narrow.jpg": {
+      "path": "archive/assets/images/5jBS66ppfc93kGKeax0St3-Narrow.jpg",
+      "bytes": 337725,
+      "contentType": "image/jpeg",
+      "sha256": "eef899addb880c5ec33a38ba1b6dc3d8dc38b459b61f25955b41f3682279b4d6",
+      "kind": "image",
+      "contentfulAssetId": "5jBS66ppfc93kGKeax0St3",
+      "pages": [
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/5lFe3CeIvFQyZoF74lsytV/d8e819aa145d5b9fef9da0c098e670a2/Home_Full_Wide.jpg": {
+      "path": "archive/assets/images/Home_Full_Wide.jpg",
+      "bytes": 1464543,
+      "contentType": "image/jpeg",
+      "sha256": "c88487609154da7835808c4b2a805cad099b4fa5c94d4f86966ba054b640b826",
+      "kind": "image",
+      "contentfulAssetId": "5lFe3CeIvFQyZoF74lsytV",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/5oEbsOgc3bm3Uvd1Z7DZBS/0c9d0ab975cb3acd5b67fda94f77a978/Burbeck_10.jpg": {
+      "path": "archive/assets/images/Burbeck_10.jpg",
+      "bytes": 21855,
+      "contentType": "image/jpeg",
+      "sha256": "35170f6cdfd831ae6acb5715627caa0cd582145dd7f841a49521bb04c6b0961f",
+      "kind": "image",
+      "contentfulAssetId": "5oEbsOgc3bm3Uvd1Z7DZBS",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/60tM5lj8gqdUpqzSTa0nBk/ff6866f0caffe078c7aafb0cf79841a3/Candidate_-_Sign_Up.jpg": {
+      "path": "archive/assets/images/Candidate_-_Sign_Up.jpg",
+      "bytes": 776921,
+      "contentType": "image/jpeg",
+      "sha256": "c22056ea4af6a7ef3a4e39fb3f6aeeeef54996e30872124dbdaa60f777c08426",
+      "kind": "image",
+      "contentfulAssetId": "60tM5lj8gqdUpqzSTa0nBk",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/67qImgn4kh87cntkvgm3AN/fd6d1b0f451eecae310b9cce5c8f48a9/shell-remote-sense.jpeg": {
+      "path": "archive/assets/images/shell-remote-sense.jpeg",
+      "bytes": 41822,
+      "contentType": "image/jpeg",
+      "sha256": "03b5e09181bf0f901108ea6501c610db9bfc65c89bb6e2386358fcf9dab6acca",
+      "kind": "image",
+      "contentfulAssetId": "67qImgn4kh87cntkvgm3AN",
+      "pages": [
+        "/work/shell-remote-sense"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/6NHM4N8yPSdqEytB91y1tU/49ff34a908f0c2e8cfe754ec175db483/Menu_Wide.jpg": {
+      "path": "archive/assets/images/Menu_Wide.jpg",
+      "bytes": 236949,
+      "contentType": "image/jpeg",
+      "sha256": "0dc38b8f5d749c7fc711279597014adba0cc76632f4aee9d32d32aab3ee5e127",
+      "kind": "image",
+      "contentfulAssetId": "6NHM4N8yPSdqEytB91y1tU",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/6NKeVIc3jptfzyVs7NGQOM/af05c3c13bd41b730b8e2c68ba522ec4/ho.jpg": {
+      "path": "archive/assets/images/ho.jpg",
+      "bytes": 761629,
+      "contentType": "image/jpeg",
+      "sha256": "1936982c6a80e9254b6ad7d54077d03cfed1d92882334a7feea8b03815db22ed",
+      "kind": "image",
+      "contentfulAssetId": "6NKeVIc3jptfzyVs7NGQOM",
+      "pages": [
+        "/work/uk-home-office"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/6QTcETBnlPjGkSI95bOaox/ab2f5d7a4676a657f2a5485fbdde22a2/preview.jpg": {
+      "path": "archive/assets/images/preview.jpg",
+      "bytes": 35968,
+      "contentType": "image/jpeg",
+      "sha256": "59d2ea6102e13e63636ff203c0e7783aac997c1c083c4cb3c0eaee6a4575f379",
+      "kind": "image",
+      "contentfulAssetId": "6QTcETBnlPjGkSI95bOaox",
+      "pages": [
+        "/work",
+        "/work/uk-home-office"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/6WEFjz1NWi7nDzWmlpNH7k/9064ccc120111cc682af645f8d69e438/Product_Full_Wide.jpg": {
+      "path": "archive/assets/images/Product_Full_Wide.jpg",
+      "bytes": 1770859,
+      "contentType": "image/jpeg",
+      "sha256": "11d5e3ad87be505ea08ea4a57d5f5996de39470d7931deaebc489849a98b117d",
+      "kind": "image",
+      "contentfulAssetId": "6WEFjz1NWi7nDzWmlpNH7k",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/6nHzY4hCdEB5lh1ekAazG7/322ce02674947680c5c48e106de462dc/Partners_Wide.jpg": {
+      "path": "archive/assets/images/Partners_Wide.jpg",
+      "bytes": 542704,
+      "contentType": "image/jpeg",
+      "sha256": "1bf033a013e5c15c39ce7acf36cfb4084e9b2f858be5f0370ad42cd8a74e8b77",
+      "kind": "image",
+      "contentfulAssetId": "6nHzY4hCdEB5lh1ekAazG7",
+      "pages": [
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/6xns4zufXvsmZS2XRpVskJ/1516456a9d2f54f5a413bc3add3e31de/Burbeck_7.jpg": {
+      "path": "archive/assets/images/Burbeck_7.jpg",
+      "bytes": 137928,
+      "contentType": "image/jpeg",
+      "sha256": "906c2cd429284fe7132ef4fe53fd200d74a9a903c95569b2745ebf3d01f2f223",
+      "kind": "image",
+      "contentfulAssetId": "6xns4zufXvsmZS2XRpVskJ",
+      "pages": [
+        "/",
+        "/work"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/717mZ7UPoIJGvvGZhld944/092e3a11d38d7b993f3465948c7b4195/Recruiter_-_Chat.jpg": {
+      "path": "archive/assets/images/Recruiter_-_Chat.jpg",
+      "bytes": 728147,
+      "contentType": "image/jpeg",
+      "sha256": "866eba4eba95bbddecc5f4441b2f35950f8ad34e78da8e7a301bc89043ac8803",
+      "kind": "image",
+      "contentfulAssetId": "717mZ7UPoIJGvvGZhld944",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/71Qgt0BBD8H3lY0fNHMrL6/1d665c0f2d7fb4176cab6c4aa635a147/Menu_Filtered_Wide.jpg": {
+      "path": "archive/assets/images/Menu_Filtered_Wide.jpg",
+      "bytes": 293927,
+      "contentType": "image/jpeg",
+      "sha256": "ba0cd545c62b888654da802a28783272b7b37f09cc1cf86e3887fe2f8abd7e11",
+      "kind": "image",
+      "contentfulAssetId": "71Qgt0BBD8H3lY0fNHMrL6",
+      "pages": [
+        "/work/eversys"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/73HRC4aSGmTWKgGMcnzIZc/5a733aec71dadc431353c7be5d89601b/App_-_Jobs.jpg": {
+      "path": "archive/assets/images/App_-_Jobs.jpg",
+      "bytes": 816173,
+      "contentType": "image/jpeg",
+      "sha256": "74e0fd7f8516c05565ababf50bcd37ac7c6a4666ddbcef5c03f0d184e67c17ae",
+      "kind": "image",
+      "contentfulAssetId": "73HRC4aSGmTWKgGMcnzIZc",
+      "pages": [
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/7CFhWOTjdX0QSzWERZvhYd/a4f09482232c3643cda3400e8e90b751/Land_Wide.jpg": {
+      "path": "archive/assets/images/Land_Wide.jpg",
+      "bytes": 236703,
+      "contentType": "image/jpeg",
+      "sha256": "b5f89f52b85ff57b260626e9cf7a2c3c25832211e2cb86ae377e0fe59bdef49a",
+      "kind": "image",
+      "contentfulAssetId": "7CFhWOTjdX0QSzWERZvhYd",
+      "pages": [
+        "/work/palatine-homes"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/7EZVswrWiR4fCwIJnMvkny/ce2d2e8d3646095fdf89962fb94d1b9a/Home_Wide.jpg": {
+      "path": "archive/assets/images/7EZVswrWiR4fCwIJnMvkny-Home_Wide.jpg",
+      "bytes": 309184,
+      "contentType": "image/jpeg",
+      "sha256": "094355d21b839e8d94ce3c3ea83db8e3047ce5380a4b8a021f06ff2d874042c4",
+      "kind": "image",
+      "contentfulAssetId": "7EZVswrWiR4fCwIJnMvkny",
+      "pages": [
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/7GWUTAXBFKCP2L88KCg4mX/92f30f7b1830de3250bbc8568ec4167e/Burbeck_Site_1.jpg": {
+      "path": "archive/assets/images/Burbeck_Site_1.jpg",
+      "bytes": 370268,
+      "contentType": "image/jpeg",
+      "sha256": "91703cd36ce00d135f8db77a5914bc46cad67da138e223e3784496ae4bef8b5f",
+      "kind": "image",
+      "contentfulAssetId": "7GWUTAXBFKCP2L88KCg4mX",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/7fPQKKJebzkOrfaMCKaiMF/86b5e0f98596cfe5c91617c714106170/Homes_Interiors_Narrow.jpg": {
+      "path": "archive/assets/images/Homes_Interiors_Narrow.jpg",
+      "bytes": 321249,
+      "contentType": "image/jpeg",
+      "sha256": "d48151d47cc9f2c4ebfd619856f98d1ae22f0f9070703353286dd0a546d57031",
+      "kind": "image",
+      "contentfulAssetId": "7fPQKKJebzkOrfaMCKaiMF",
+      "pages": [
+        "/work/palatine-homes"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/7fXtEf7pheeJ6IPBWtVeeV/ba2e8465d442d4419fbb7af40b6cc297/Music_Wide.jpg": {
+      "path": "archive/assets/images/Music_Wide.jpg",
+      "bytes": 443232,
+      "contentType": "image/jpeg",
+      "sha256": "4a20f9c8616841e8f9c0d98fbc16a1982e394602132a09c0af300a4ddd7e02f2",
+      "kind": "image",
+      "contentfulAssetId": "7fXtEf7pheeJ6IPBWtVeeV",
+      "pages": [
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/7iUfKlZpwxj6A0x0EOM925/9bd00079a33a182ead8d00dcdb6a4104/1598291191070.jpeg": {
+      "path": "archive/assets/images/1598291191070.jpeg",
+      "bytes": 66749,
+      "contentType": "image/jpeg",
+      "sha256": "01a40b0b85cdf5092c2785df16fd578b152e7c9135dceb5010c78b70db26fe60",
+      "kind": "image",
+      "contentfulAssetId": "7iUfKlZpwxj6A0x0EOM925",
+      "duplicateOf": "https://images.ctfassets.net/cssyktxw8bf5/4JHmu4xYNbfw645KE59CBw/942ad796165c2bc27b4d8ef20ad2f166/1598291191070.jpeg",
+      "pages": [
+        "/work/the-grid"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/EfT56Tr1yAbKvmcfbG9Da/9dc5c0acd8ccad03ad321eb346518094/63ab1dc39eac4638a2dc0e75_BL-Cover2.png": {
+      "path": "archive/assets/images/63ab1dc39eac4638a2dc0e75_BL-Cover2.png",
+      "bytes": 475399,
+      "contentType": "image/png",
+      "sha256": "a65ac68049fbe79763958e74f3e6940ba8e6be0fd32594c5802990f1f2f45b9e",
+      "kind": "image",
+      "contentfulAssetId": "EfT56Tr1yAbKvmcfbG9Da",
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/GaNl3OhH6LrNCiGjcdPch/5faad955234112fe4feefab504a6c9f7/Hero_2.jpg": {
+      "path": "archive/assets/images/Hero_2.jpg",
+      "bytes": 185934,
+      "contentType": "image/webp",
+      "sha256": "f6a7e7623db62ea44f6fee79c25d97892831ff6ec8f28a18bdb5c1a6e6f9ea71",
+      "kind": "image",
+      "contentfulAssetId": "GaNl3OhH6LrNCiGjcdPch",
+      "pages": [
+        "/",
+        "/work/project-catalyst"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/TAvXlSlizwDTQ8prPo4OB/5353bd073f5036f8e26cb3e307d639fc/home-desktop-2.jpg": {
+      "path": "archive/assets/images/home-desktop-2.jpg",
+      "bytes": 448884,
+      "contentType": "image/jpeg",
+      "sha256": "9b344c1751116784ba52ab4abaffccd6c1ff64c178f8ae9490204623fcbbfa98",
+      "kind": "image",
+      "contentfulAssetId": "TAvXlSlizwDTQ8prPo4OB",
+      "pages": [
+        "/",
+        "/work",
+        "/work/daniel-ricciardo"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/VgwCalZWpfs4DfSgxOpr4/8045b3c7602ae57c951b40be36e70ccc/Burbeck_9.jpg": {
+      "path": "archive/assets/images/Burbeck_9.jpg",
+      "bytes": 118424,
+      "contentType": "image/jpeg",
+      "sha256": "57375c08388280f4cd2e39d020107a1ae7f06494dde1b58813b237ca9fd9121e",
+      "kind": "image",
+      "contentfulAssetId": "VgwCalZWpfs4DfSgxOpr4",
+      "pages": [
+        "/work/burbeck"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/ZCz2XtFTl71BAz9CYnrZe/6b9a632e253251dcc941b684055e6577/shell-remote-sense.jpeg": {
+      "path": "archive/assets/images/shell-remote-sense.jpeg",
+      "bytes": 41822,
+      "contentType": "image/jpeg",
+      "sha256": "03b5e09181bf0f901108ea6501c610db9bfc65c89bb6e2386358fcf9dab6acca",
+      "kind": "image",
+      "contentfulAssetId": "ZCz2XtFTl71BAz9CYnrZe",
+      "duplicateOf": "https://images.ctfassets.net/cssyktxw8bf5/67qImgn4kh87cntkvgm3AN/fd6d1b0f451eecae310b9cce5c8f48a9/shell-remote-sense.jpeg",
+      "pages": [
+        "/work",
+        "/work/shell-remote-sense"
+      ]
+    },
+    "https://images.ctfassets.net/cssyktxw8bf5/cRrAdyIreVvKQTC4qn2mL/25a55e116925a86ee817bc2ff48a9120/Waitrose_Banbury-2110377150.jpg": {
+      "path": "archive/assets/images/Waitrose_Banbury-2110377150.jpg",
+      "bytes": 231205,
+      "contentType": "image/jpeg",
+      "sha256": "79f7b9f534fe41a2be117d816dc7b9e1514f5905b593a9e2382567ac27c82a53",
+      "kind": "image",
+      "contentfulAssetId": "cRrAdyIreVvKQTC4qn2mL",
+      "pages": [
+        "/work",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/css/c29b6cf248e3d6c7.css": {
+      "path": "archive/assets/css/c29b6cf248e3d6c7.css",
+      "bytes": 29896,
+      "contentType": "text/css; charset=utf-8",
+      "sha256": "d12e9cb5ec6a6cc8aad49d1094c42edfc45492d0f6c3305dd5411ad50d353b57",
+      "kind": "css",
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/media/155cae559bbd1a77-s.p.woff2": {
+      "path": "archive/assets/fonts/lato-300-normal-latin.woff2",
+      "bytes": 13912,
+      "contentType": "font/woff2",
+      "sha256": "7bb29c58eadc0f0c7b704f5fce2490d10cb62efa55797a09c9b8f91b3b54cb34",
+      "kind": "font",
+      "font": {
+        "family": "Lato",
+        "weight": "300",
+        "style": "normal",
+        "subset": "latin",
+        "preloaded": true
+      },
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/media/19cfc7226ec3afaa-s.woff2": {
+      "path": "archive/assets/fonts/inter-100-900-normal-greek.woff2",
+      "bytes": 19044,
+      "contentType": "font/woff2",
+      "sha256": "46dd4cdca58c26ae87cc6927657bf83b2e8abfc39ffd0ab176e301a8d28d22bf",
+      "kind": "font",
+      "font": {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "subset": "greek",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/21350d82a1f187e9-s.woff2": {
+      "path": "archive/assets/fonts/inter-100-900-normal-cyrillic.woff2",
+      "bytes": 18744,
+      "contentType": "font/woff2",
+      "sha256": "aebf2ab4a4ce6810d73c1ac7be7cafb4e5ec4cee2d6db5fb3e09691747ec4bd6",
+      "kind": "font",
+      "font": {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "subset": "cyrillic",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/301c2a5d0ba920b0-s.woff2": {
+      "path": "archive/assets/fonts/libre-baskerville-400-normal-latin-ext.woff2",
+      "bytes": 21048,
+      "contentType": "font/woff2",
+      "sha256": "7af851e8c87938002632330daa065dc2607e9891a816ce76b9bdb85ab95878a4",
+      "kind": "font",
+      "font": {
+        "family": "Libre Baskerville",
+        "weight": "400",
+        "style": "normal",
+        "subset": "latin-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/39969fcf98a3026e-s.woff2": {
+      "path": "archive/assets/fonts/lato-700-normal-latin-ext.woff2",
+      "bytes": 3028,
+      "contentType": "font/woff2",
+      "sha256": "78e850d569834892d3f4bdfd2084c7a7c0dc64ae4226f3231af30dae706400e2",
+      "kind": "font",
+      "font": {
+        "family": "Lato",
+        "weight": "700",
+        "style": "normal",
+        "subset": "latin-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/6d664cce900333ee-s.p.woff2": {
+      "path": "archive/assets/fonts/lato-700-normal-latin.woff2",
+      "bytes": 14168,
+      "contentType": "font/woff2",
+      "sha256": "7a7ce1a34f3e9944fe88fc61abbc93b6db383afa2b90815fd7ccea456fbce4e5",
+      "kind": "font",
+      "font": {
+        "family": "Lato",
+        "weight": "700",
+        "style": "normal",
+        "subset": "latin",
+        "preloaded": true
+      },
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/media/741497999fe9fb9c-s.woff2": {
+      "path": "archive/assets/fonts/ephesis-400-normal-vietnamese.woff2",
+      "bytes": 6256,
+      "contentType": "font/woff2",
+      "sha256": "a119d0237436ae6ba344ffc86ea2317776b6a91ef9c21842db055b03a2781e45",
+      "kind": "font",
+      "font": {
+        "family": "Ephesis",
+        "weight": "400",
+        "style": "normal",
+        "subset": "vietnamese",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/7ff6869a1704182a-s.p.woff2": {
+      "path": "archive/assets/fonts/lato-900-normal-latin.woff2",
+      "bytes": 13724,
+      "contentType": "font/woff2",
+      "sha256": "bd9a6192274f8f2f3ce31cd3d2cae5ebe32e2fa86fc7c4f60a3c28556e496d56",
+      "kind": "font",
+      "font": {
+        "family": "Lato",
+        "weight": "900",
+        "style": "normal",
+        "subset": "latin",
+        "preloaded": true
+      },
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/media/8e9860b6e62d6359-s.woff2": {
+      "path": "archive/assets/fonts/inter-100-900-normal-latin-ext.woff2",
+      "bytes": 85272,
+      "contentType": "font/woff2",
+      "sha256": "a28eb6d3ccb534ae0c94ca999371df024aab60b08c3c8a5720ee9e32fa0faaa2",
+      "kind": "font",
+      "font": {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "subset": "latin-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/9ce3050912c26948-s.woff2": {
+      "path": "archive/assets/fonts/lato-300-normal-latin-ext.woff2",
+      "bytes": 2988,
+      "contentType": "font/woff2",
+      "sha256": "f74c0a0ebbe359255553a5445ccf2a75973d9c70807452ca12820b7bcfc9bbb9",
+      "kind": "font",
+      "font": {
+        "family": "Lato",
+        "weight": "300",
+        "style": "normal",
+        "subset": "latin-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/a32a9d5809336663-s.woff2": {
+      "path": "archive/assets/fonts/ephesis-400-normal-latin-ext.woff2",
+      "bytes": 18156,
+      "contentType": "font/woff2",
+      "sha256": "97f35e81855ca2a1ba0b24627b92c60b278a2fb9bfcc376dd2b84ede734aac0e",
+      "kind": "font",
+      "font": {
+        "family": "Ephesis",
+        "weight": "400",
+        "style": "normal",
+        "subset": "latin-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/b2f48049c9c5c631-s.p.woff2": {
+      "path": "archive/assets/fonts/libre-baskerville-400-normal-latin.woff2",
+      "bytes": 18660,
+      "contentType": "font/woff2",
+      "sha256": "6a00cb64a3a77abe3e3bd863e3e1532c8a73a3e0a1837e5ba2373a79c5e4a5b9",
+      "kind": "font",
+      "font": {
+        "family": "Libre Baskerville",
+        "weight": "400",
+        "style": "normal",
+        "subset": "latin",
+        "preloaded": true
+      },
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/media/ba9851c3c22cd980-s.woff2": {
+      "path": "archive/assets/fonts/inter-100-900-normal-cyrillic-ext.woff2",
+      "bytes": 25844,
+      "contentType": "font/woff2",
+      "sha256": "fccca918fea40089dacadc7045861314d1a6bc91f1f323cc1eeb22ebcdb321b5",
+      "kind": "font",
+      "font": {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "subset": "cyrillic-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/c5fe6dc8356a8c31-s.woff2": {
+      "path": "archive/assets/fonts/inter-100-900-normal-greek-ext.woff2",
+      "bytes": 11272,
+      "contentType": "font/woff2",
+      "sha256": "a2e2c783ca6f9c20486e81e72a279203e86730bbf8f01ff6a5ee9dbd09e1c271",
+      "kind": "font",
+      "font": {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "subset": "greek-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/def63d5944bff763-s.p.woff2": {
+      "path": "archive/assets/fonts/ephesis-400-normal-latin.woff2",
+      "bytes": 21308,
+      "contentType": "font/woff2",
+      "sha256": "32bd24921aa789970989be3320888d42c25f8af5839d4010d401ac3685cb288c",
+      "kind": "font",
+      "font": {
+        "family": "Ephesis",
+        "weight": "400",
+        "style": "normal",
+        "subset": "latin",
+        "preloaded": true
+      },
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/media/df0a9ae256c0569c-s.woff2": {
+      "path": "archive/assets/fonts/inter-100-900-normal-vietnamese.woff2",
+      "bytes": 10280,
+      "contentType": "font/woff2",
+      "sha256": "8db00ff46c67b22cda8bed865acf7077651cac8d2841d5b40980556b48961931",
+      "kind": "font",
+      "font": {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "subset": "vietnamese",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/_next/static/media/e4af272ccee01ff0-s.p.woff2": {
+      "path": "archive/assets/fonts/inter-100-900-normal-latin.woff2",
+      "bytes": 48432,
+      "contentType": "font/woff2",
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+      "kind": "font",
+      "font": {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "subset": "latin",
+        "preloaded": true
+      },
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/_next/static/media/f97d1853053d8931-s.woff2": {
+      "path": "archive/assets/fonts/lato-900-normal-latin-ext.woff2",
+      "bytes": 3060,
+      "contentType": "font/woff2",
+      "sha256": "5aaafef33d89a4e866f1837d27e8cf465479efd9ef2ef53ac9bedd7c8103dc03",
+      "kind": "font",
+      "font": {
+        "family": "Lato",
+        "weight": "900",
+        "style": "normal",
+        "subset": "latin-ext",
+        "preloaded": false
+      },
+      "pages": []
+    },
+    "https://www.nrthpoint.com/favicon.ico": {
+      "path": "archive/assets/favicon.ico",
+      "bytes": 2798,
+      "contentType": "image/x-icon",
+      "sha256": "deb2e49979cda973ea75abc15cc135a412bef54979e399c2cc1595f6f1b436e2",
+      "kind": "favicon",
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    },
+    "https://www.nrthpoint.com/images/logo.png": {
+      "path": "archive/assets/images/logo.png",
+      "bytes": 24962,
+      "contentType": "image/png",
+      "sha256": "0005950d938d043e0d4014efb643022f226b964de6c538b054b8615da3050907",
+      "kind": "image",
+      "pages": [
+        "/",
+        "/work",
+        "/work/betterleap",
+        "/work/burbeck",
+        "/work/daniel-ricciardo",
+        "/work/eversys",
+        "/work/palatine-homes",
+        "/work/project-catalyst",
+        "/work/shell-remote-sense",
+        "/work/sky",
+        "/work/the-grid",
+        "/work/tiney",
+        "/work/uk-home-office",
+        "/work/waitrose"
+      ]
+    }
+  },
+  "failed": []
+}
